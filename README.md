@@ -19,7 +19,6 @@
 - I like programming & learning new concepts
 - I like attending tech events
 - I like team work and supporting team mates
-- 
 <!-- - 📫 How to reach me: ... -->
 #### 📫 How to reach me
 - [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/francis-wayungi-3aa626231/)
