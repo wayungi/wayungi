@@ -24,11 +24,9 @@
 <!--<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>-->
 </p>
 
-### Stadistics:
 
-[![Wayungi's GitHub stats](https://github-readme-stats.vercel.app/api?username=wayungi&show_icons=true&theme=dark)](https://github.com/wayungi/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wayungi&layout=compact&show_icons=true&theme=dark)](https://github.com/wayungi/github-readme-stats)
+
 
 
 
@@ -61,6 +59,10 @@
 
 ### Statistics
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=wayungi.visitor-badge&left_color=red&right_color=green) 
+
+[![Wayungi's GitHub stats](https://github-readme-stats.vercel.app/api?username=wayungi&show_icons=true&theme=dark)](https://github.com/wayungi/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wayungi&layout=compact&show_icons=true&theme=dark)](https://github.com/wayungi/github-readme-stats)
 
 
 
