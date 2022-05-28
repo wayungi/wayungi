@@ -51,10 +51,14 @@
 
 ### Statistics
  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wayungi&theme=solarized_dark) 
+ 
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=solarized_dark) 
+  
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vn7n24fzkq&theme=solarized_dark&utcOffset=8) 
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=wayungi.visitor-badge&left_color=red&right_color=green) 
-
-[![Wayungi's GitHub stats](https://github-readme-stats.vercel.app/api?username=wayungi&show_icons=true&theme=dark)](https://github.com/wayungi/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wayungi&layout=compact&show_icons=true&theme=dark)](https://github.com/wayungi/github-readme-stats)
+<!-- ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=wayungi.visitor-badge&left_color=red&right_color=green) 
+ -->
+<!-- [![Wayungi's GitHub stats](https://github-readme-stats.vercel.app/api?username=wayungi&show_icons=true&theme=dark)](https://github.com/wayungi/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wayungi&layout=compact&show_icons=true&theme=dark)](https://github.com/wayungi/github-readme-stats) -->
 
 
 
