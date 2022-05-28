@@ -52,9 +52,7 @@
 ### Statistics
  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wayungi&theme=solarized_dark) 
  
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=solarized_dark) 
-  
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vn7n24fzkq&theme=solarized_dark&utcOffset=8) 
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=wayungi&theme=solarized_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wayungi&theme=solarized_dark&utcOffset=8) 
 
 <!-- ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=wayungi.visitor-badge&left_color=red&right_color=green) 
  -->
