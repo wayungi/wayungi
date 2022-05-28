@@ -10,17 +10,6 @@
    - <p align="left"><a href="https://twitter.com/FrancisWayungi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
   - <a href="mailto:fwayungi@gmail.com">Email</a>
 
-<!-- ### Social media presenec
-![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white&mailto=fwayungi@gmail.com)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![Skype](https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
-![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
-![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white) -->
-
-
 
 
 
@@ -61,6 +50,9 @@
 <!-- ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) -->
 
 ### Statistics
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=vue)
+
+
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=wayungi.visitor-badge&left_color=red&right_color=green) 
 
 [![Wayungi's GitHub stats](https://github-readme-stats.vercel.app/api?username=wayungi&show_icons=true&theme=dark)](https://github.com/wayungi/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wayungi&layout=compact&show_icons=true&theme=dark)](https://github.com/wayungi/github-readme-stats)
