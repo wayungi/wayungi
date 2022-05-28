@@ -31,6 +31,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wayungi&layout=compact&show_icons=true&theme=dark)](https://github.com/wayungi/github-readme-stats)
 
 
+
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=wayungi.visitor-badge)
+
+
 <!-- ## About me
 
 ### Technologies--
