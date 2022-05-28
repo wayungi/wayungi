@@ -1,3 +1,7 @@
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello,+my name is Francis Wayungi;I am a software Engineer)](https://git.io/typing-svg)
+ 
+ 
+ 
  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wayungi&theme=monokai) 
  
  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wayungi&theme=monokai) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wayungi&theme=monokai) 
