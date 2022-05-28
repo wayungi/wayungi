@@ -50,7 +50,7 @@
 <!-- ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) -->
 
 ### Statistics
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wayungi&theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wayungi&theme=dark)
 
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=wayungi.visitor-badge&left_color=red&right_color=green) 
