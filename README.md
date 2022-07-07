@@ -1,5 +1,8 @@
  
-<!--  #### 📫 How to reach me
+  #### Hi, I am Francis
+  
+  
+  <!-- 📫 How to reach me
 - [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/francis-wayungi-3aa626231/)
 - Email: <a href="mailto:fwayungi@gmail.com">fwayungi</a>
 - [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/wayungi/)
