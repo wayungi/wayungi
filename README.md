@@ -16,9 +16,11 @@
 
 <h3 align="left">Find me online at</h3>
 <a href="https://www.linkedin.com/in/francis-wayungi-3aa626231/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-< a href="https://twitter.com/FrancisWayungi">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
+<a href="https://twitter.com/FrancisWayungi">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
 <a href="mailto:fwayungi@gmail.com.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-<a href="https://www.facebook.com/francis.wayungi">![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)</a>
+<!-- <a href="https://www.facebook.com/francis.wayungi"> -->
+ ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
+<!--  </a> -->
 
   
  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wayungi&theme=monokai) 
