@@ -1,6 +1,7 @@
  
   ### Hi, I am Francis
   
+  <img src="./images/wayungi.png" />
  
 
 #### Languages and Frameworks
