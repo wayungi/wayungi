@@ -1,9 +1,9 @@
  
-  ## Hi, I am Francis
+  ### Hi, I am Francis
   
  
 
-<h3 align="left">Languages and Frameworks</h3>
+#### Languages and Frameworks
 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
@@ -14,20 +14,20 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-<h3 align="left">Find me online at</h3>
+#### Find me online at
 
 <a href="https://www.linkedin.com/in/francis-wayungi-3aa626231/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://twitter.com/FrancisWayungi">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
 <a href="mailto:fwayungi@gmail.com.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <a href="https://www.facebook.com/francis.wayungi">![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)</a>
 
+#### Github statistics
 
-  
- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wayungi&theme=monokai) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wayungi&theme=monokai) 
  
- ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wayungi&theme=monokai) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wayungi&theme=monokai) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wayungi&theme=monokai) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wayungi&theme=monokai) 
  
- ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=wayungi&theme=monokai) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wayungi&theme=monokai&utcOffset=8) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=wayungi&theme=monokai) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wayungi&theme=monokai&utcOffset=8) 
 
 
 
