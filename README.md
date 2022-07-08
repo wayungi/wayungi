@@ -1,7 +1,4 @@
- 
-  ### Hi, I am Francis
-  
-  <img width="100%" align="center" src="./images/wayungi.png" />
+<img width="100%" align="center" src="./images/wayungi.png" />
  
 
 #### Languages and Frameworks
