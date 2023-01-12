@@ -1,10 +1,10 @@
-<img width="100%" align="center" src="./images/wayungi.png" />
- 
- #### About me
- 
- - 🌱 I'm currently learning Javascript
+<!-- <img width="100%" align="center" src="./images/wayungi.png" />
+  -->
+ #### Hi there 👋 !!!, 
+ - My name is Francis Wayungi
+ - 🌱 I'm a full stack web developer
  - 😄 I love swimming, listening to tech related podcasts and tinkering with the Linux terminal
- - 🤔 I'm looking to collaborate on Front end projects in React
+ - 🤔 I'm looking to collaborate on  JavaScript, React & Ruby on Rails projects.
  - ⚡ Fun fact: when the going gets tough, the tough get going.
  
 #### Languages and Frameworks
@@ -15,11 +15,6 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-
-<!--- ![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Sass!](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) -->
 
 
 #### Find me online at
