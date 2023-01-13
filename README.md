@@ -1,6 +1,6 @@
 <!-- <img width="100%" align="center" src="./images/wayungi.png" />
   -->
- #### Hi there 👋 !!!, 
+ #### Hi there 👋
  - My name is Francis Wayungi
  - 🌱 I'm a full stack web developer currently open to new opportunities
  - 😄 I love swimming, listening to tech related podcasts and tinkering with the Linux terminal
