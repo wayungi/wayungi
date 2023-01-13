@@ -4,8 +4,8 @@
  - My name is Francis Wayungi
  - 🌱 I'm a full stack web developer currently open to new opportunities
  - 😄 I love swimming, listening to tech related podcasts and tinkering with the Linux terminal
- - 🤔 I'm looking to collaborate on  JavaScript, React & Ruby on Rails projects.
- - ⚡ Fun fact: when the going gets tough, the tough get going.
+ - 🤔 I'm looking to collaborate on  JavaScript, React & Ruby on Rails projects
+ - ⚡ Fun fact: when the going gets tough, the tough get going
  
 #### Languages and Frameworks
 
